@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GamepadIcon",
+	"Description": "Gamepad Icon for Xbox and PS!",
+	"Category": "Other",
+	"CreatedBy": "DriedMachine",
+	"CreatedByURL": "https://space.bilibili.com/268519001/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
